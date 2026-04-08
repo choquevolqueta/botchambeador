@@ -1,0 +1,6 @@
+{
+    "groq_api_key": "TU_GROQ_API_KEY_AQUI",
+    "pais": "cl",
+    "busqueda": "marketing digital",
+    "max_ofertas": 20
+}

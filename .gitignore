@@ -1,0 +1,7 @@
+# Logs y capturas generadas
+logs/
+debug_capturas/
+
+# Python
+__pycache__/
+*.pyc

@@ -1,0 +1,59 @@
+{
+    "nombre": "Juan Pérez González",
+    "edad": 25,
+    "ciudad": "Santiago",
+    "comuna": "Providencia",
+    "telefono": "+56912345678",
+    "email": "tu_email@ejemplo.com",
+
+    "experiencia": [
+        {
+            "cargo": "Asistente de Marketing",
+            "empresa": "Empresa Ejemplo",
+            "duracion": "1 año",
+            "descripcion": "Gestión de redes sociales, creación de contenido y apoyo en campañas digitales."
+        }
+    ],
+
+    "estudios": [
+        {
+            "titulo": "Licenciado en Marketing",
+            "institucion": "Universidad Ejemplo",
+            "anio_egreso": 2023
+        }
+    ],
+
+    "habilidades": [
+        "Redes sociales (Instagram, TikTok, Facebook)",
+        "Edición de video (Premiere, CapCut)",
+        "Diseño (Canva, Photoshop)",
+        "Fotografía",
+        "Marketing digital",
+        "Creación de contenido",
+        "Uso de IA para automatizar tareas de marketing"
+    ],
+
+    "motivacion_marketing": "Me apasiona el marketing digital y la creación de contenido. Disfruto conectar marcas con su audiencia a través de estrategias creativas en redes sociales.",
+
+    "motivacion_audiovisual": "Tengo experiencia en producción audiovisual y edición de video. Me motiva contar historias visuales que generen impacto.",
+
+    "disponibilidad": "inmediata",
+
+    "expectativa_sueldo": "a convenir",
+
+    "modalidad_preferida": "presencial o híbrida",
+
+    "fortalezas": [
+        "Creatividad",
+        "Trabajo en equipo",
+        "Adaptabilidad",
+        "Proactividad"
+    ],
+
+    "respuestas_extra": {
+        "por_que_este_cargo": "Porque me permite aplicar mis habilidades en marketing digital y audiovisual en un entorno profesional donde puedo aportar valor real.",
+        "donde_te_ves_en_5_anios": "Desarrollándome profesionalmente en el área del marketing y la comunicación, liderando proyectos creativos.",
+        "mayor_fortaleza": "Mi capacidad creativa combinada con mi disposición para aprender y adaptarme rápidamente.",
+        "mayor_debilidad": "A veces soy muy detallista, pero lo gestiono priorizando tareas."
+    }
+}
