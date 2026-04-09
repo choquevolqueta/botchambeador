@@ -8,7 +8,11 @@ Bot que automatiza postulaciones en [Computrabajo](https://computrabajo.com) usa
 
 - Python 3.10 o superior
 - Google Chrome instalado
-- Una cuenta en [Computrabajo](https://computrabajo.com)
+- Una cuenta en [Computrabajo](https://computrabajo.com) **registrada con email y contraseña**
+
+> **Importante:** Las cuentas que se acceden mediante Google **no funcionan**. Selenium no es reconocido como navegador compatible por el sistema de login de Google, por lo que el proceso quedará bloqueado en esa pantalla.
+>
+> Se recomienda crear una **cuenta nueva exclusiva para el bot**, con un correo alternativo (Gmail, Outlook, etc.). Esto además protege tu cuenta principal en caso de que Computrabajo detecte y banee la actividad automatizada.
 - Una API key de [Groq](https://console.groq.com) (gratuita)
 
 ---
